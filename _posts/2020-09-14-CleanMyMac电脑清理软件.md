@@ -51,4 +51,4 @@ CleanMyMac X 囊括了 30 多种工具，可以帮助您解决大部分 Mac 问�
 
 ## 下载地址：
 
-[![点击下载](/assets/images/icloud.png "title")](https://www.icloud.com)
+[![点击下载](/assets/images/icloud.png =100x100 "title")](https://www.icloud.com/iclouddrive/0OxSkC6FZjLU3X4qoXPdTwddw#CleanMyMac_X_4_6_12_TNT)
