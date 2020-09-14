@@ -75,7 +75,7 @@ OmniPlan专为项目管理，可视化和管理而设计。将案例划分为任
 输入下方激活码：
 
 
-```
+```ActiveCode
 	COKH-AYYC-YCWE-BPKT-IBGI-REII-BGI
 	ARID-HEIE-ZQKH-EEHZ-PGSE-REIP-GSE
 	AMFF-QPAJ-VEQV-LMDM-WQYH-LEIW-QYH
