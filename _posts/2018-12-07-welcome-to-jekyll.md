@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subheading: hello world!
-author: Jeffrey
-categories: jekyll
+title: 大家好!
+subheading: 大家好!
+author: beijing999923
+categories: 新闻
 banner: default
-tags: jekyll theme yat
+tags: 迈克资源库
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
