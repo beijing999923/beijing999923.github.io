@@ -3,7 +3,7 @@ layout: post
 title: CleanMyMac X 又双叒叕更新了！
 subheading: 新增周年庆主题+累计垃圾清理统计
 author: beijing999923
-categories: 工具
+categories: 工具 清理 TNT
 banner: /assets/images/banners/cleanmymac.jpg
 tags: 迈克资源库
 ---
