@@ -90,7 +90,7 @@ OmniPlan专为项目管理，可视化和管理而设计。将案例划分为任
 
 注意：官方更新可能会导致激活丢失。 
 
-[1]:	https://www.icloud.com/iclouddrive/0OxSkC6FZjLU3X4qoXPdTwddw#CleanMyMac_X_4_6_12_TNT
+[1]:	https://www.icloud.com/iclouddrive/01PTxuHjBZqCqjS_wIC8IBdvQ#OmniPlan_3.14
 
 [image-1]:	/assets/images/banners/omniplanpro3.jpg
 [image-2]:	/assets/images/icloud.png "title"
