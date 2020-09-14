@@ -73,6 +73,9 @@ OmniPlan专为项目管理，可视化和管理而设计。将案例划分为任
 下载后打开DMG将应用程序拖到Application快捷方式
 启动OmniPlan并单击“激活”
 输入下方激活码：
+
+
+```cpp
 	COKH-AYYC-YCWE-BPKT-IBGI-REII-BGI
 	ARID-HEIE-ZQKH-EEHZ-PGSE-REIP-GSE
 	AMFF-QPAJ-VEQV-LMDM-WQYH-LEIW-QYH
@@ -83,6 +86,7 @@ OmniPlan专为项目管理，可视化和管理而设计。将案例划分为任
 	ENCP-ARDE-OPYM-UEJE-SGKU-BEIS-GKU
 	NDZE-GOVD-TBYE-IOFW-IOJH-XEII-OJH
 	DEJO-ATVM-JKAX-SNDZ-HQBM-VEIH-QBM
+```
 注意：官方更新可能会导致激活丢失。 
 
 [1]:	https://www.icloud.com/iclouddrive/0OxSkC6FZjLU3X4qoXPdTwddw#CleanMyMac_X_4_6_12_TNT
