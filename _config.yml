@@ -35,7 +35,7 @@ yat:
 # sitemap: false
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+lang: "zh-CN"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -88,11 +88,11 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+defaults:
+  home:
+    heading: "Your awesome heading！"
+    subheading: "Your awesome subheading！"
+    banner: "Your image url！"
 
 # Pagination setting
 # paginate: 5
