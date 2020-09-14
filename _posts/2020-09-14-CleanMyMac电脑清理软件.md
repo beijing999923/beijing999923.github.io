@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 大家好!
-subheading: 大家好!
+title: CleanMyMac X 又双叒叕更新了！
+subheading: 新增周年庆主题+累计垃圾清理统计
 author: beijing999923
-categories: 新闻
-banner: default
+categories: 工具
+banner: /assets/images/banners/cleanmymac.jpg
 tags: 迈克资源库
 ---
 
