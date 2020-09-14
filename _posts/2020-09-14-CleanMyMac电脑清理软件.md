@@ -51,7 +51,5 @@ CleanMyMac X 囊括了 30 多种工具，可以帮助您解决大部分 Mac 问�
 
 ## 下载地址：
 
-[![avatar](/assets/images/icloud.jpg)][![avatar](/assets/images/icloud.jpg)]
-
-[![avatar](/assets/images/icloud.jpg)]: www.icloud.com
+[![alt text](/path/to/img.jpg)]www.icloud.com
 
