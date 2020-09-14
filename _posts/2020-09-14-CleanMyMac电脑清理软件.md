@@ -5,7 +5,7 @@ subheading: 新增周年庆主题+累计垃圾清理统计
 author: beijing999923
 categories: 工具 清理 TNT
 banner: /assets/images/banners/cleanmymac.jpg
-tags: 迈克资源库
+tags: 工具 清理 TNT
 ---
 
 ## 软件简介：
